@@ -9,5 +9,8 @@ Git repo to log issues for the FIREd budget app
 
 ## Logging a Git Issue
 
-In the tab bar above, click the second tab labeled "Issues". 
+In the tab bar above, click the second tab labeled "Issues". On the right hand side, there is a green button labeled "New". 
+Write down a descriptive name and add as much detail as you can. Screenshots are highly encouraged!
+
+## Thank you and happy tracking!
 
