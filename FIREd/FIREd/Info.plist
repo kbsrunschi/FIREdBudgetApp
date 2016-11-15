@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Enable Location Services always. You can change this at any time in Settings</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Help us help you! Location services help us with analytics - press Allow to enable Location Services</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>categoryData</key>
+	<array>
+		<string>Housing - Mortgage/Rent</string>
+		<string>Housing - PMI</string>
+		<string>Housing - Interest</string>
+		<string>Housing - Taxes</string>
+		<string>Housing - HOA</string>
+		<string>Housing - Insurance</string>
+		<string>Utilities - Water</string>
+		<string>Utilities - Electric</string>
+		<string>Utilities - Heat</string>
+		<string>Utilities - Internet/Cable</string>
+		<string>Utilities - Gas</string>
+		<string>Utilities - Subscriptions</string>
+		<string>Food - Fast Food</string>
+		<string>Food - Restaurants</string>
+		<string>Food -  Coffee Shops</string>
+		<string>Food - Convenience</string>
+		<string>Food - Alcohol</string>
+		<string>Food - Groceries</string>
+		<string>Debt - Credit Card</string>
+		<string>Debt - Student Loan</string>
+		<string>Debt - Personal</string>
+		<string>Savings</string>
+		<string>Retirement Savings</string>
+		<string>Transportation - Public Transit</string>
+		<string>Transportation - Ride Share</string>
+		<string>Transportation - Gas/Tolls</string>
+		<string>Transportation - Parking</string>
+		<string>Transportation - Maintenance</string>
+		<string>Gifts</string>
+		<string>Travel</string>
+		<string>Entertainment - Alcohol/Bars</string>
+		<string>Entertainment - Tickets</string>
+		<string>Entertainment - Other</string>
+		<string>Clothing/Shoes</string>
+		<string>Furniture</string>
+		<string>General Merchandise</string>
+		<string>Taxes</string>
+		<string>Services</string>
+		<string>Education</string>
+		<string>Hobbies</string>
+		<string>ATM/Cash</string>
+		<string>Charitable Giving</string>
+		<string>Child/Dependent - Clothing &amp; Shoes</string>
+		<string>Child/Dependent - Activities</string>
+		<string>Child/Dependent - Education</string>
+		<string>Insurance</string>
+		<string>Personal Care</string>
+		<string>Pet Care</string>
+		<string>Investment Income</string>
+		<string>Paychecks/Income</string>
+	</array>
+</dict>
+</plist>
